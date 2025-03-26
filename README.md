@@ -9,4 +9,5 @@ Rooster, Dog, Pig in that order. Each zodiac cycle includes 12 years, starting w
 According to Chinese tradition, people born in different years of the zodiac cycle are associated with specific personality traits. Peole born in different years may be 
 more or less compatible with each other. 
 
-In this app, the user can input his/her birthday, and the app will provide the Zodiac animal, the personality traits and compatibility.    
+In this app, the user can input his/her birthday, and the app will provide the Zodiac animal, the personality traits and compatibility.
+The app is available at https://chinese-zodiacapp.streamlit.app/ . 
